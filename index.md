@@ -6,3 +6,15 @@ Here you can find lots of useful information
 [Bryn Mawr College](http://www.brynmawr.edu)
 ![bats drawing](media/bats.jpg)
 Check out my [Curriculum Vitae](secondpage.md)!
+
+
+
+[Contact me](#contact-information)
+
+## Bio
+
+Information about me.
+
+## Projects
+
+## Contact Information
